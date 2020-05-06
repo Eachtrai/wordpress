@@ -39,14 +39,13 @@ Tabhair aire daoibh féin.
 
 Foireann Coláiste UISCE
 
-
 <strong>Refunds Schedule</strong>
 
 Due to the current high volume of administration and our restricted working conditions please see below for our schedule for the payment of refunds.  Your patience with this issue is appreciated:
 
-Course A&nbsp;&nbsp;&nbsp;Dátaí Csa A
-Course B&nbsp;&nbsp;&nbsp;Dátaí Csa B
-Course C&nbsp;&nbsp;&nbsp; Dátaí Csa C
-Course D&nbsp;&nbsp;&nbsp;Dátaí Csa D
-Course E&nbsp;&nbsp;&nbsp;Dátaí Csa E
-Course F&nbsp;&nbsp;&nbsp;Dataí Csa F
+Course A       Dátaí Csa A
+Course B       Dátaí Csa B
+Course C       Dátaí Csa C
+Course D       Dátaí Csa D
+Course E       Dátaí Csa E
+Course F       Dataí Csa F
