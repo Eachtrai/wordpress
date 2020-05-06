@@ -58,6 +58,6 @@ MEAS (RESPECT is our motto)
 
 <strong>Cén costas atá air? </strong>€150 an duine (includes resource pack and free hoodie)
 
-<strong>Limited places available.<a href="https://bookings.uisce.ie/"> Book online INNIU!</a></strong>
+<strong>Limited places available.</strong>
 
 <img class="alignnone wp-image-3965" src="http://uisce.ie/wp-content/uploads/2020/05/Meas-EnglishTextV2-300x212.png" alt="" width="1025" height="724" />
