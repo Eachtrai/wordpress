@@ -38,9 +38,7 @@ Finally, we would like to thank you for your understanding and patience during t
 Tabhair aire daoibh féin.
 
 Foireann Coláiste UISCE
-
 &nbsp;
-
 &nbsp;
 Refunds Schedule
 
