@@ -41,7 +41,7 @@ From meeting a real Bean an Tí to practicing surf pop ups with our enthusiastic
 
 <strong>4 Great reasons to do an Online Course at UISCE</strong>
 
-MEAS (RESPECT is our motto)
+MEAS (RESPECT is our motto)<img class="alignleft wp-image-4012" src="http://uisce.ie/wp-content/uploads/2020/05/marcus-cropped.png" alt="" width="128" height="121" />
 <strong>M </strong>- Meet new friends and develop a love for Irish
 <strong>E  </strong>- Enjoy learning Irish in a fun interactive way.
 <strong>A  </strong>- Activity based learning with our young vibrant team
@@ -60,4 +60,4 @@ MEAS (RESPECT is our motto)
 
 <strong>Limited places available.</strong>
 
-<img class="alignnone wp-image-3965" src="http://uisce.ie/wp-content/uploads/2020/05/Meas-EnglishTextV2-300x212.png" alt="" width="815" height="576" /><a href="http://uisce.ie/wp-content/uploads/2020/05/marcus-cropped.png"><img class="alignnone size-full wp-image-4012" src="http://uisce.ie/wp-content/uploads/2020/05/marcus-cropped.png" alt="" width="254" height="237" /></a>
+<img class="alignnone wp-image-3965" src="http://uisce.ie/wp-content/uploads/2020/05/Meas-EnglishTextV2-300x212.png" alt="" width="815" height="576" />
