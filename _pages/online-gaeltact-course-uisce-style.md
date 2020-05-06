@@ -5,7 +5,7 @@ author: cormac de Roiste
 post_excerpt: ""
 layout: page
 permalink: >
-  https://uisce.ie/online-gaeltact-course-uisce-style/
+  http://uisce.ie/online-gaeltact-course-uisce-style/
 published: true
 post_date: 2020-05-01 18:37:50
 ---
@@ -15,7 +15,7 @@ post_date: 2020-05-01 18:37:50
 <em><strong>Have you signed up? - WATER you waiting for!!</strong></em>
 
 WAVE goodbye to the disappointment of a non-Gaeltacht summer agus Bígí
-Linn @ Coláiste UISCE ar líne le haghaidh – Comhrá &amp; Craic le cairde nua!
+Linn @ Coláiste UISCE ar líne le haghaidh – Comhrá &amp; Craic le do chairde!
 
 Introducing Blas Choláiste UISCE, a unique, fun and interactive online experience which takes the Gaeltacht from Elly Bay straight to your homes ar fud na tíre, and allows you to have fun with your friends ‘As Gaeilge’ ar líne.
 
@@ -45,7 +45,7 @@ MEAS (RESPECT is our motto)
 <strong>M </strong>- Meet new friends and develop a love for Irish
 <strong>E  </strong>- Enjoy learning Irish in a fun interactive way.
 <strong>A  </strong>- Activity based learning with our young vibrant team
-<strong>S  </strong>- Spóirt agus Spraoi @ uisce.ie
+<strong>S  </strong>- Spórt agus Spraoi @ uisce.ie
 
 <strong>Céard atá ag teastáil? What do you need?</strong>
 <ul>
