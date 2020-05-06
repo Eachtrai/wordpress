@@ -10,6 +10,20 @@ permalink: http://uisce.ie/coroinvireas-covid-19/
 published: true
 post_date: 2020-03-26 11:36:28
 ---
+<strong>Update: 06/05/2020</strong>
+
+Dia Daoibh,
+
+This week we will be contacting everyone due to be with us on Cúrsa A 2020 (31/05/2020 - 14/06/2020)
+
+We have sent an email to those booked on the course above. Please follow the instructions on the email you would have received.If your booking is for a course after this we request that you wait until we contact you, as we are focusing on working in chronological order and due to government restrictions that are in place, we are currently working from home.
+
+Go raibh maith agaibh,
+
+Foireann UISCE
+
+&nbsp;
+
 <strong>21/04/2020</strong>
 
 As you may be aware, the Department of Culture, Heritage and the Gaeltacht have recently announced a decision to cancel all Summer Gaeltacht courses for 2020 due to the current Covid-19 crisis.
@@ -41,11 +55,11 @@ Foireann Coláiste UISCE
 
 <strong>Refunds Schedule</strong>
 
-Due to the current high volume of administration and our restricted working conditions please see below for our schedule for the payment of refunds.  Your patience with this issue is appreciated:
+Due to the current high volume of administration and our restricted working conditions please see below for our schedule for the payment of refunds. Your patience with this issue is appreciated:
 
-Course A       Dátaí Csa A
-Course B       Dátaí Csa B
-Course C       Dátaí Csa C
-Course D       Dátaí Csa D
-Course E       Dátaí Csa E
-Course F       Dataí Csa F
+Course A    -    May 31 - Jun 14
+Course B    -    Jun 15 - Jun 29
+Course C    -    Jun 30 - Jul 14
+Course D    -    Jul 15 - Jul 29
+Course E    -    Jul 30 - Aug 13
+Course F    -    Aug 14 - Aug 22
