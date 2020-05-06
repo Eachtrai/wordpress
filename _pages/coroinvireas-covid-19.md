@@ -6,7 +6,7 @@ post_excerpt: >
   Get updates on how the Coronavirus
   effects your booking
 layout: page
-permalink: https://uisce.ie/coroinvireas-covid-19/
+permalink: http://uisce.ie/coroinvireas-covid-19/
 published: true
 post_date: 2020-03-26 11:36:28
 ---
@@ -20,12 +20,12 @@ Like many businesses our onsite administration office is currently closed as a r
 
 Due to the high volume of bookings this year, we will be responding to emails and communicating with all customers in relation to their booking options and refunds on a course by course basis based on the plan below:
 
-Course A &nbsp;&nbsp;&nbsp;04/5/2020 to 08/5/2020
-Course B &nbsp;&nbsp;&nbsp;11/5/2020 to 15/5/2020
-Course C &nbsp;&nbsp;&nbsp;18/5/2020 to 22/5/2020
-Course D &nbsp;&nbsp;&nbsp;25/5/2020 to 29/5/2020
-Course E &nbsp;&nbsp;&nbsp;02/6/2020 to 06/6/2020
-Course F &nbsp;&nbsp;&nbsp;08/6/2020 to 12/6/2020
+Course A    04/5/2020 to 08/5/2020
+Course B    11/5/2020 to 15/5/2020
+Course C    18/5/2020 to 22/5/2020
+Course D    25/5/2020 to 29/5/2020
+Course E    02/6/2020 to 06/6/2020
+Course F    08/6/2020 to 12/6/2020
 
 We will be starting with those who have a place booked on <strong>Cúrsa A 2020 (31st May – 14th June).</strong> If your booking is for a course after this, we request that you wait until we contact you, as we are focusing on working in chronological order.
 
@@ -38,3 +38,17 @@ Finally, we would like to thank you for your understanding and patience during t
 Tabhair aire daoibh féin.
 
 Foireann Coláiste UISCE
+
+&nbsp;
+
+&nbsp;
+Refunds Schedule
+
+Due to the current high volume of administration and our restricted working conditions please see below for our schedule for the payment of refunds.  Your patience with this issue is appreciated:
+
+Course A             Dátaí Csa A
+Course B             Dátaí Csa B
+Course C             Dátaí Csa C
+Course D             Dátaí Csa D
+Course E             Dátaí Csa E
+Course F             Dataí Csa F
