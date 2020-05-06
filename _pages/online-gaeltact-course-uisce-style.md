@@ -14,10 +14,10 @@ post_date: 2020-05-01 18:37:50
 
 <em><strong>Have you signed up? - WATER you waiting for!!</strong></em>
 
-<strong>WAVE goodbye to the disappointment of a non-Gaeltacht summer agus Bígí
-Linn @ Coláiste UISCE ar líne le haghaidh – Comhrá &amp; Craic le cairde nua!</strong>
+WAVE goodbye to the disappointment of a non-Gaeltacht summer agus Bígí
+Linn @ Coláiste UISCE ar líne le haghaidh – Comhrá &amp; Craic le cairde nua!
 
-<strong>Introducing Blas Choláiste UISCE, a unique, fun and interactive online experience which takes the Gaeltacht from Elly Bay straight to your homes ar fud na tíre, and allows you to have fun with your friends ‘As Gaeilge’ ar líne.</strong>
+Introducing Blas Choláiste UISCE, a unique, fun and interactive online experience which takes the Gaeltacht from Elly Bay straight to your homes ar fud na tíre, and allows you to have fun with your friends ‘As Gaeilge’ ar líne.
 
 <strong>Céard é? What is it?</strong>
 
