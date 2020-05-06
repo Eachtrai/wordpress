@@ -53,6 +53,8 @@ Tabhair aire daoibh féin.
 
 Foireann Coláiste UISCE
 
+&nbsp;
+
 <strong>Refunds Schedule</strong>
 
 Due to the current high volume of administration and our restricted working conditions please see below for our schedule for the payment of refunds. Your patience with this issue is appreciated:
