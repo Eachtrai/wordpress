@@ -4,7 +4,7 @@ post_title: Sample banner page
 author: cormac de Roiste
 post_excerpt: ""
 layout: page
-permalink: http://uisce.ie/sample-banner-page/
+permalink: https://uisce.ie/sample-banner-page/
 published: true
 post_date: 2020-05-03 18:58:22
 ---
