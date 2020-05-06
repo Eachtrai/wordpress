@@ -1,6 +1,6 @@
 ---
 ID: 3964
-post_title: Online Gaeltacht Course – UISCE Style
+post_title: Online Gaeltacht Course
 author: cormac de Roiste
 post_excerpt: ""
 layout: page
