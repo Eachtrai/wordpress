@@ -60,4 +60,4 @@ MEAS (RESPECT is our motto)
 
 <strong>Limited places available.</strong>
 
-<img class="alignnone wp-image-3965" src="http://uisce.ie/wp-content/uploads/2020/05/Meas-EnglishTextV2-300x212.png" alt="" width="1025" height="724" />
+<img class="alignnone wp-image-3965" src="http://uisce.ie/wp-content/uploads/2020/05/Meas-EnglishTextV2-300x212.png" alt="" width="815" height="576" /><a href="http://uisce.ie/wp-content/uploads/2020/05/marcus-cropped.png"><img class="alignnone size-full wp-image-4012" src="http://uisce.ie/wp-content/uploads/2020/05/marcus-cropped.png" alt="" width="254" height="237" /></a>
