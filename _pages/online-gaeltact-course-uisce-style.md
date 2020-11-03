@@ -5,14 +5,12 @@ author: cormac de Roiste
 post_excerpt: ""
 layout: page
 permalink: >
-  http://uisce.ie/online-gaeltact-course-uisce-style/
+  https://uisce.ie/online-gaeltact-course-uisce-style/
 published: true
 post_date: 2020-05-01 18:37:50
 ---
 <em><strong>Learning Irish is Fun online @ Coláiste UISCE
 </strong></em>
-
-<em><strong>Have you signed up? - WATER you waiting for!!</strong></em>
 
 WAVE goodbye to the disappointment of a non-Gaeltacht summer agus Bígí
 Linn @ Coláiste UISCE ar líne le haghaidh – Comhrá &amp; Craic le do chairde!
@@ -20,7 +18,7 @@ Linn @ Coláiste UISCE ar líne le haghaidh – Comhrá &amp; Craic le do chaird
 Introducing Blas Choláiste UISCE, a unique, fun and interactive online experience which takes the Gaeltacht from Elly Bay straight to your homes ar fud na tíre, and allows you to have fun with your friends ‘As Gaeilge’ ar líne.
 
 <strong>Céard é? What is it?</strong>
-
+https://youtu.be/8zkfSMODbNs
 Our online course consists of <strong>5 one-hour interactive sessions</strong> where you will get to meet the staff and experience first-hand the spirit of Coláiste UISCE where <strong>Learning Irish is fun</strong>.
 
 <strong>5 additional activity-based learning videos</strong> will also be provided where our instructors will lead you through enjoyable and practical tasks ‘as Gaeilge’ to consolidate what has been learned during the live classes.
@@ -58,6 +56,25 @@ MEAS (RESPECT is our motto)<img class="alignleft wp-image-4012" src="http://uisc
 
 <strong>Cén costas atá air? </strong>€150 an duine (includes resource pack and free hoodie)
 
-<strong>Limited places available.</strong>
+<strong>Limited places available. Click <a href="https://bookings.uisce.ie/">HERE</a> to Book Now
+</strong>
+
+<strong> Classes are suitable for students from 6th class to 3rd year. For more information email <a href="mailto:eolas@uisce.ie">eolas@uisce.ie</a></strong>
+
+<strong><em>Have you signed up? – WATER you waiting for!!</em></strong>
+<h2>What the media say about our online Gaeltacht course?</h2>
+Irish Independant
+
+<a href="https://www.independent.ie/irish-news/a-taste-of-summer-gaeltacht-experience-goes-online-39270950.html">https://www.independent.ie/irish-news/a-taste-of-summer-gaeltacht-experience-goes-online-39270950.html</a>
+
+Nuacht TG4
+
+<a href="https://www.facebook.com/NuachtTG4/videos/267330598015252/">https://www.facebook.com/NuachtTG4/videos/267330598015252/</a>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <img class="alignnone wp-image-3965" src="http://uisce.ie/wp-content/uploads/2020/05/Meas-EnglishTextV2-300x212.png" alt="" width="815" height="576" />

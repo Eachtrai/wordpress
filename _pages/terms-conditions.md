@@ -11,6 +11,19 @@ post_date: 2014-01-31 14:53:26
 Welcome to Coláiste UISCE.  The following are the rules or "Terms" that govern use of the Coláiste UISCE website.  By using or visiting the Site, you expressly agree to be bound by these Terms and to follow these Terms and all applicable laws and regulations governing the website.  Coláiste UISCE reserves the right to change these Terms at any time, effective immediately upon posting on the website. Please check this page of the website periodically.
 
 Price is inclusive of accommodation, food, Irish classes, water, land and evening activities and 24hr supervision.  Please note water activities (Sailing, Windsurfing, Surfing and Canoeing) are weather permitting.  Price is not inclusive of: travel to/from Coláiste UISCE, private laundry requirements and a tour during the course.
+<h4>Covid 19</h4>
+<ol>
+ 	<li>Please Note: Students will be provisionally accepted at time of booking. Bookings are only accepted and confirmed upon the satisfactory completion of the following:
+• COVID 19 Declaration Form
+• GP Assessment Form (if required)</li>
+ 	<li>The Covid 19 Declaration and GP Assessment Forms must be returned between 5 and 3 days prior to the course start date. Please note, forms returned later than 3 days before the course start date will not be accepted.</li>
+ 	<li>Coláiste UISCE reserves the right to deny registration to applicants who do not successfully fulfil steps 1 and 2.</li>
+ 	<li>Coláiste UISCE reserves the right to deny registration of applicants suffering from serious illness or underlying health conditions. This is in the best interest and safety of the student.</li>
+ 	<li>In the event of a surge in COVID 19 cases, Coláiste UISCE reserves the right to deny registration based on geographical location of the applicants.</li>
+ 	<li>Coláiste UISCE reserves the right to cancel courses based on statistical information and government guidelines regarding COVID 19.</li>
+ 	<li>Coláiste UISCE reserve the right to cancel courses in the event of a lack of demand.</li>
+ 	<li>In the event of a course cancellation, applicants will be issued a full refund minus an admin fee as per our cancellation policy.</li>
+</ol>
 <h4><strong>Deposit by Mail</strong></h4>
 A deposit of €250 must accompany application forms. Discount Vouchers will be credited off the balance due.
 <h4><strong>Online Deposit</strong></h4>

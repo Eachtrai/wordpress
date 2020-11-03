@@ -14,7 +14,7 @@ published: true
 post_date: 2014-01-30 12:00:59
 ---
 <strong>UISCE</strong> Cuan Eilí O.P. Clochair Béal an Átha Co. Mhaigh Eo Éire F26 HF10
-<strong>Office Hours</strong> 9:30am - 5:30pm Mon - Fri
+<strong>Office Hours</strong> 9:30am - 5:30pm Mon - Thur
 
 <strong>Phone</strong> 097-82111
 
